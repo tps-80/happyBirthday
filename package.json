@@ -1,0 +1,22 @@
+{
+  "name": "happybirthday",
+  "version": "1.0.0",
+  "description": "This is a project to put \"Happy Birthday on a screen.\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tps-80/happyBirthday.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tps-80/happyBirthday/issues"
+  },
+  "homepage": "https://github.com/tps-80/happyBirthday#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
